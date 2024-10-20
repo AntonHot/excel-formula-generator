@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Excelの数式生成器 - Excel Formula Generator"
+  },
+  "shortDesc": {
+    "message": "Excel Formula Generatorを使用して、Google Sheets用の数式を作成します。AI対応の数式生成器がExcelの数式生成をサポートします。"
+  }
+}
